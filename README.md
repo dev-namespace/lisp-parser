@@ -24,6 +24,6 @@ ruby main.rb
 ### Launching tests 
 
 ```
-spec
+rspec
 ```
 
